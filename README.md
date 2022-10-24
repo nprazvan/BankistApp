@@ -1,2 +1,2 @@
 # BankistApp
-I designed a banking app by implementing and experimenting with a lot new array functions and became more familiar with method chaining and strengthening the usage of DOM.
+I designed a banking app in which you can login then view a display of current situation of the account. The app lets you transfer money between accounts and also take a loan.It was a very fun and educative project by implementing and experimenting with a lot new array functions and became more familiar with method chaining and strengthening the usage of DOM, and also by internationalazing numbers for personalizing the dates and learning to set up a log out timer.
